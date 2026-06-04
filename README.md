@@ -5,10 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://linkedin.com/in/mohamadhasan-maleki" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
   </a>
-  <a href="https://t.me/" target="_blank">
+  <a href="https://instagram.com/Mohamad__hasan2004" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://t.me/mohamadhasan2004" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&style=for-the-badge" height="25" />
   </a>
 </div>
@@ -16,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamadHasanMaleki.MohamadHasanMaleki"  />
 </div>
 
 ###
@@ -57,15 +60,6 @@ I'm a Backend Developer from Iran 🇮🇷<br><br>
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamadHasanMaleki&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamadHasanMaleki&layout=compact&theme=github_dark" height="150"/>
 </div>
-
-###
-
-<h3 align="left">📌 Projects</h3>
-
-<p align="left">
-- 🛒 WatchShop (E-commerce backend project)<br>
-- 📦 Practice projects with ASP.NET Core & SQL Server
-</p>
